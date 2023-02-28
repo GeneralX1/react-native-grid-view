@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "react": "16.5.0",
-    "react-native": "0.64.0",
+    "react-native": "0.68.0",
     "react-native-grid-view": "^0.4.0",
     "@snyk/protect": "latest"
   },
